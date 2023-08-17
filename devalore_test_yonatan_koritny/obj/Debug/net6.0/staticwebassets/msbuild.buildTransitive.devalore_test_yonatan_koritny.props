@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\devalore_test_yonatan_koritny.props" />
+</Project>
